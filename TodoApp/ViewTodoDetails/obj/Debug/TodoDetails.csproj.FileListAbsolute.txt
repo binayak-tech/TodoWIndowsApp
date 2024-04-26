@@ -1,0 +1,10 @@
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\obj\Debug\TodoDetails.csproj.AssemblyReference.cache
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\obj\Debug\TodoDetails.AddOrUpdateTodo.resources
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\obj\Debug\ViewTodoDetails.Properties.Resources.resources
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\obj\Debug\TodoDetails.csproj.GenerateResource.cache
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\obj\Debug\TodoDetails.csproj.CoreCompileInputs.cache
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\obj\Debug\ViewTodoDetails.exe
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\obj\Debug\ViewTodoDetails.pdb
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\bin\Debug\ViewTodoDetails.exe.config
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\bin\Debug\ViewTodoDetails.exe
+C:\Users\Binayak Purohit\Desktop\CodingPractice\TodoApplication\TodoApp\ViewTodoDetails\bin\Debug\ViewTodoDetails.pdb
